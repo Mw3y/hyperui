@@ -286,7 +286,7 @@ components, such as Blade, React, Liquid OR Vue.**
 
 ## Use Max Width Classes When Restricting Width
 
-### Inccrect
+### Incorrect
 
 ```
 <div class="w-auto sm:w-64">
